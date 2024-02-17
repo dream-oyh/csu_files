@@ -15,3 +15,9 @@ gitee 仓库 SSH 地址：`git@gitee.com:o19859860010/csu_stte_files.git`
 2. 仓库的使用已经部署在`dream-oyh.pages.dev`的个人博客上，不会使用 gitee 的小伙伴可以前往博客下载。
 3. 本仓库并不包含所有学科的所有知识，仅仅是个人资料的总和。
 
+
+#### 贡献者（Contributors）
+
+- dream-oyh：中南大学交通设备专业本科在读
+
+- Rrsausage：中南大学软件工程专业本科在读
