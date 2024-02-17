@@ -1,0 +1,98 @@
+\documentclass[12pt]{ctexart}
+
+\title{控制工程基础课程设计报告}
+\author{欧 宇恒}
+\date{\today}
+\usepackage{ctex}			%处理中文字体宏包
+\usepackage{graphicx}		%处理图片宏包
+\usepackage{amsmath}		%处理数学公式宏包	
+\usepackage{setspace}		%处理行距宏包
+\usepackage[left=1.91cm,right=1.91cm,top=2.54cm,bottom=2.54cm]{geometry}		%编辑页面格式
+\usepackage{booktabs}		%处理三线表宏包
+\usepackage{color}			%处理颜色宏包
+\usepackage{multirow}       %处理合并单元格宏包
+\usepackage{subfigure}
+\usepackage{underscore}   % 处理下划线
+\usepackage{listings} 
+\usepackage{color}
+\usepackage{indentfirst}
+% -- Defining colors:
+\usepackage[dvipsnames]{xcolor}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.93,0.96,0.98}
+\definecolor{codecolor}{rgb}{0.3,0.3,0.3}
+% Definig a custom style:
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codepurple},
+    keywordstyle=\color{NavyBlue},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize\bfseries\color{codecolor},
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=t,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2,
+    frameround = ffff
+}
+% -- Setting up the custom style:
+\lstset{style=mystyle, 
+    language=python,}
+
+
+
+
+\begin{document}	
+	\ctexset{
+		section={
+			name={\S},
+			nameformat={\zihao{3}},
+			titleformat={\centering\heiti\zihao{3}},
+		},
+		subsection={
+			name={},
+			nameformat={\zihao{4}},
+			titleformat={\zihao{4}},
+		},
+	}
+\begin{titlepage}
+
+    \begin{center}
+    % Upper part of the page
+    \includegraphics[width=0.4\textwidth]{./CSU.png}\\[1cm]    
+    \textsc{\LARGE Central South University}\\[1.5cm]
+    \textsc{\Large Final Week Project}\\[1.5cm]
+    % Title
+    \textsc{\huge \bfseries 控制工程基础课程设计报告}\\[1cm]
+    \textsc{\zihao{3} \bfseries 典型信号输入下一二阶系统响应仿真}\\[1.5cm]
+    % Author and supervisor
+    \begin{minipage}{0.4\textwidth}
+    \begin{flushleft} \large
+    \emph{Author:}\\
+    OuYuheng
+    \end{flushleft}
+    \end{minipage}
+    \begin{minipage}{0.4\textwidth}
+    \begin{flushright} \large
+    \emph{Supervisor:} \\
+    Dr.Xiao \textsc{Yougang}
+    \end{flushright}
+    \end{minipage}
+    \vfill
+    % Bottom of the page
+    {\large \today}
+    \end{center}
+    \end{titlepage}
+\newpage
+\tableofcontents
+\newpage
+
+\end{document}

@@ -1,0 +1,114 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {\S 1}静电场}{6}{}%
+\contentsline {subsection}{\numberline {1.1}库仑定律与若干带电系统电场与电势大小}{6}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}电偶极子电场大小}{6}{}%
+\contentsline {subsubsection}{\numberline {1.1.2}均匀带电细直棒外任意一点场强大小}{6}{}%
+\contentsline {subsubsection}{\numberline {1.1.3}均匀带电圆环轴线上距环心$x$处的电场与电势大小}{7}{}%
+\contentsline {subsubsection}{\numberline {1.1.4}无限大均匀带电平面的场强大小}{8}{}%
+\contentsline {subsubsection}{\numberline {1.1.5}均匀带电球面的电势分布}{8}{}%
+\contentsline {subsection}{\numberline {1.2}高斯定理}{8}{}%
+\contentsline {subsection}{\numberline {1.3}静电场的环路定理}{8}{}%
+\contentsline {subsection}{\numberline {1.4}电势能}{8}{}%
+\contentsline {subsection}{\numberline {1.5}电势}{9}{}%
+\contentsline {section}{\numberline {\S 2}静电场中的导体与电介质}{9}{}%
+\contentsline {subsection}{\numberline {2.1}导体表面附近的场强}{9}{}%
+\contentsline {subsection}{\numberline {2.2}电场与电势计算总结}{9}{}%
+\contentsline {subsection}{\numberline {2.3}电极化强度}{9}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}有关电极化强度的定理1}{9}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}有关电极化强度的定理2}{10}{}%
+\contentsline {subsection}{\numberline {2.4}电介质中的高斯定理}{10}{}%
+\contentsline {subsection}{\numberline {2.5}电容和电容器}{10}{}%
+\contentsline {subsubsection}{\numberline {2.5.1}电容的定义式}{10}{}%
+\contentsline {subsubsection}{\numberline {2.5.2}平行板电容器}{10}{}%
+\contentsline {subsubsection}{\numberline {2.5.3}电容器的连接}{10}{}%
+\contentsline {subsection}{\numberline {2.6}电场的能量}{11}{}%
+\contentsline {subsubsection}{\numberline {2.6.1}电容器的能量}{11}{}%
+\contentsline {subsubsection}{\numberline {2.6.2}电场能量}{11}{}%
+\contentsline {section}{\numberline {\S 3}恒定磁场}{11}{}%
+\contentsline {subsection}{\numberline {3.1}电流密度}{11}{}%
+\contentsline {subsection}{\numberline {3.2}欧姆定律的微分形式}{11}{}%
+\contentsline {subsection}{\numberline {3.3}磁矩}{12}{}%
+\contentsline {subsection}{\numberline {3.4}磁场中的高斯定理与环路定理}{12}{}%
+\contentsline {subsection}{\numberline {3.5}毕奥萨伐尔定律}{12}{}%
+\contentsline {subsection}{\numberline {3.6}毕奥萨伐尔定律的应用}{12}{}%
+\contentsline {subsubsection}{\numberline {3.6.1}载流直导线的磁场}{12}{}%
+\contentsline {subsubsection}{\numberline {3.6.2}圆形电流轴线上的磁场}{13}{}%
+\contentsline {subsubsection}{\numberline {3.6.3}长直螺线管的磁场分布}{13}{}%
+\contentsline {subsection}{\numberline {3.7}磁场对载流导线和载流线圈的作用}{14}{}%
+\contentsline {subsubsection}{\numberline {3.7.1}对\textbf {载流导线}的作用：安培定律}{14}{}%
+\contentsline {subsubsection}{\numberline {3.7.2}对\textbf {载流线圈}的作用：磁力矩}{14}{}%
+\contentsline {subsubsection}{\numberline {3.7.3}磁力做功}{14}{}%
+\contentsline {subsection}{\numberline {3.8}磁场对运动电荷的作用}{14}{}%
+\contentsline {subsection}{\numberline {3.9}霍尔作用}{14}{}%
+\contentsline {section}{\numberline {\S 4}磁场中的磁介质}{15}{}%
+\contentsline {subsection}{\numberline {4.1}相对磁导率}{15}{}%
+\contentsline {subsection}{\numberline {4.2}磁化强度与磁化电流的关系}{15}{}%
+\contentsline {subsection}{\numberline {4.3}磁介质中的高斯定理与安培环路定理}{16}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}磁介质中的高斯定理}{16}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}磁介质中的安培环路定理}{16}{}%
+\contentsline {subsection}{\numberline {4.4}磁极化率}{16}{}%
+\contentsline {section}{\numberline {\S 5}变化的电磁场}{16}{}%
+\contentsline {subsection}{\numberline {5.1}法拉第电磁感应定律}{16}{}%
+\contentsline {subsection}{\numberline {5.2}楞次定律}{17}{}%
+\contentsline {subsection}{\numberline {5.3}动生电动势}{17}{}%
+\contentsline {subsection}{\numberline {5.4}感生电动势与感生电场}{17}{}%
+\contentsline {subsection}{\numberline {5.5}感生电场的运用}{18}{}%
+\contentsline {subsubsection}{\numberline {5.5.1}电子感应加速器}{18}{}%
+\contentsline {subsubsection}{\numberline {5.5.2}涡电流}{18}{}%
+\contentsline {subsection}{\numberline {5.6}自感、互感}{19}{}%
+\contentsline {subsubsection}{\numberline {5.6.1}自感系数}{19}{}%
+\contentsline {subsubsection}{\numberline {5.6.2}互感}{19}{}%
+\contentsline {subsection}{\numberline {5.7}自感磁能}{19}{}%
+\contentsline {subsubsection}{\numberline {5.7.1}互感磁能}{20}{}%
+\contentsline {subsection}{\numberline {5.8}磁场能量}{20}{}%
+\contentsline {subsection}{\numberline {5.9}电场能量与磁场能量相比较}{20}{}%
+\contentsline {subsection}{\numberline {5.10}麦克斯韦电磁场理论（物理学史上的神级理论！）}{20}{}%
+\contentsline {subsubsection}{\numberline {5.10.1}全电流定律}{22}{}%
+\contentsline {subsection}{\numberline {5.11}各向同性介质的物质方程}{22}{}%
+\contentsline {subsection}{\numberline {5.12}电磁波}{23}{}%
+\contentsline {subsubsection}{\numberline {5.12.1}电磁波波动方程}{23}{}%
+\contentsline {subsubsection}{\numberline {5.12.2}平面电磁波基本性质}{23}{}%
+\contentsline {subsubsection}{\numberline {5.12.3}电磁波能量密度}{23}{}%
+\contentsline {subsubsection}{\numberline {5.12.4}电磁波能量}{23}{}%
+\contentsline {subsubsection}{\numberline {5.12.5}电磁波的能流密度}{23}{}%
+\contentsline {section}{\numberline {\S 6}量子力学}{24}{}%
+\contentsline {subsection}{\numberline {6.1}早期量子论}{24}{}%
+\contentsline {subsubsection}{\numberline {6.1.1}黑体}{24}{}%
+\contentsline {subsubsection}{\numberline {6.1.2}斯特藩-玻尔兹曼定律}{24}{}%
+\contentsline {subsubsection}{\numberline {6.1.3}维恩位移定律}{24}{}%
+\contentsline {subsection}{\numberline {6.2}光电效应}{25}{}%
+\contentsline {subsubsection}{\numberline {6.2.1}光电效应伏安特性曲线}{25}{}%
+\contentsline {subsubsection}{\numberline {6.2.2}光电效应的规律与易错点}{25}{}%
+\contentsline {subsubsection}{\numberline {6.2.3}定量分析}{25}{}%
+\contentsline {subsection}{\numberline {6.3}光的波粒二象性}{25}{}%
+\contentsline {subsubsection}{\numberline {6.3.1}光子能量}{25}{}%
+\contentsline {subsubsection}{\numberline {6.3.2}光子质量}{26}{}%
+\contentsline {subsubsection}{\numberline {6.3.3}光子动量}{26}{}%
+\contentsline {subsection}{\numberline {6.4}康普顿效应}{26}{}%
+\contentsline {subsubsection}{\numberline {6.4.1}效应内容：}{26}{}%
+\contentsline {subsubsection}{\numberline {6.4.2}试验规律（了解即可）}{26}{}%
+\contentsline {subsubsection}{\numberline {6.4.3}定量分析}{26}{}%
+\contentsline {subsection}{\numberline {6.5}玻尔的氢原子理论}{27}{}%
+\contentsline {subsubsection}{\numberline {6.5.1}巴耳末系公式}{27}{}%
+\contentsline {subsubsection}{\numberline {6.5.2}三个假设}{27}{}%
+\contentsline {subsubsection}{\numberline {6.5.3}三个量子化}{27}{}%
+\contentsline {subsubsection}{\numberline {6.5.4}巴耳末系的最短波长与最长波长}{27}{}%
+\contentsline {subsection}{\numberline {6.6}德布罗意波}{28}{}%
+\contentsline {subsubsection}{\numberline {6.6.1}德布罗意关系式}{28}{}%
+\contentsline {subsubsection}{\numberline {6.6.2}相关实验汇总}{28}{}%
+\contentsline {subsection}{\numberline {6.7}不确定关系}{28}{}%
+\contentsline {subsubsection}{\numberline {6.7.1}动量与位置的不确定关系}{28}{}%
+\contentsline {subsubsection}{\numberline {6.7.2}能量与时间的不确定关系}{28}{}%
+\contentsline {subsection}{\numberline {6.8}薛定谔方程}{29}{}%
+\contentsline {subsubsection}{\numberline {6.8.1}定态波函数}{29}{}%
+\contentsline {subsubsection}{\numberline {6.8.2}波函数的计算}{29}{}%
+\contentsline {subsubsection}{\numberline {6.8.3}隧穿效应}{30}{}%
+\contentsline {subsubsection}{\numberline {6.8.4}一维线性谐振子}{30}{}%
+\contentsline {subsection}{\numberline {6.9}氢原子的量子理论}{30}{}%
+\contentsline {subsubsection}{\numberline {6.9.1}三个量子数}{30}{}%
+\contentsline {subsection}{\numberline {6.10}多电子原子中电子分布规律}{30}{}%
+\contentsline {subsubsection}{\numberline {6.10.1}电子的轨道磁矩}{30}{}%
+\contentsline {subsubsection}{\numberline {6.10.2}电子自旋}{30}{}%
+\contentsline {subsubsection}{\numberline {6.10.3}电子排布规律}{31}{}%
+\contentsline {subsection}{\numberline {6.11}泡利不相容原理}{31}{}%
+\contentsline {section}{\numberline {\S 7}激光}{31}{}%
