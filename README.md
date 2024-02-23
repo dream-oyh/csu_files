@@ -4,7 +4,7 @@
 
 **资料站主要内容**：中南大学交通院与计算机院大多数公共课与部分专业课的课程备考资料
 
-资料站以`Dream-oyh的blog`为中心站点，将电子版文档部署在 <HopeIcon icon="github"/> github 和 <HopeIcon icon="gitee"/>gitee 两个平台，讲解视频资料在[中南大学 - 交小宣](https://space.bilibili.com/1555991769)和[真\_Dream 同学](https://space.bilibili.com/1901628168)平台均有发布，而本站点集成了所有的文档与视频链接，这里是最完整的资料站。
+资料站以[ Dream-oyh 的 blog ](https://dream-oyh.pages.dev)为中心站点，将电子版文档部署在 <HopeIcon icon="github"/> github 和 <HopeIcon icon="gitee"/>gitee 两个平台，讲解视频资料在[中南大学 - 交小宣](https://space.bilibili.com/1555991769)和[真\_Dream 同学](https://space.bilibili.com/1901628168)平台均有发布，而本站点集成了所有的文档与视频链接，这里是最完整的资料站。
 
 <HopeIcon icon="github"/> github 与 <HopeIcon icon="gitee"/>gitee 平台的仓库链接如下：
 
