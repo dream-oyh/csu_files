@@ -58,5 +58,4 @@
 ## 贡献者（Contributors）
 
 - dream-oyh：中南大学交通设备专业本科在读
-
 - Rrsausage：中南大学软件工程专业本科在读
